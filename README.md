@@ -1,5 +1,5 @@
 # PowerBi-Projects
-📊 India City GDP Analysis Dashboard (Power BI)
+📊 India City GDP Analysis Dashboard (Power BI) 
 
 This project presents an interactive Business Intelligence dashboard built using Power BI to analyze India’s economic performance across multiple dimensions, including GDP trends, city-wise contribution, sectoral distribution, and employment indicators.
 
@@ -26,7 +26,7 @@ Major metropolitan cities contribute a significant share of India’s GDP
 Services and IT sectors dominate economic output in urban regions
 Strong correlation observed between GDP growth and employment levels
 Post-pandemic recovery trends highlight economic resilience
-🔮 Future Scope
+🔮 Future Scopes
 Integration of real-time data APIs
 Implementation of predictive analytics (forecasting models)
 Expansion to state-level and district-level analysis
